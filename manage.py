@@ -3,7 +3,7 @@
 import os
 import sys
 
-git init
+
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'rate_project.settings')
     try:
